@@ -24,10 +24,6 @@
 
 3- [Figuration](https://github.com/silkke/Tutorials/wiki/3-Silkke-Figuration-%5BFR%5D)
 
-4- [UE4 animations](https://github.com/silkke/Tutorials/wiki/4-UE4-How-to-adapt-animation-to-avatars-%5BFR%5D)
-
-5- [Optimisation du squelette](https://github.com/silkke/Tutorials/wiki/5-Skeleton-optimization-%5BFR%5D)
-
 ## [EN]
 
 ### You are a developer and you want to use the silkke connect to integrate Avatars into your Unreal Engine 4 or Unity applications?
@@ -39,8 +35,4 @@
 
 2b- [UE4 Quick Start Guide](https://github.com/silkke/Tutorials/wiki/2b-UE4-Quick-Start-Guide-%5BEN%5D)
 
-3- [Extras](https://github.com/silkke/Tutorials/wiki/3-Silkke-Figuration-%5BEN%5D)
-
-4- [UE4 animations](https://github.com/silkke/Tutorials/wiki/4-UE4-How-to-adapt-animation-to-avatars-%5BEN%5D)
-
-5- [Skeleton optimization](https://github.com/silkke/Tutorials/wiki/5-Skeleton-optimization-%5BEN%5D)
+3- [Figuration](https://github.com/silkke/Tutorials/wiki/3-Silkke-Figuration-%5BEN%5D)
